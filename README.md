@@ -1,3 +1,7 @@
+Forked this action because in our case we commit changelog first and then need to compare with head~2 instead of head~1 like in the initial action
+
+
+------------------
 # Has Changed Path - GitHub Action
 
 <p align="left">
