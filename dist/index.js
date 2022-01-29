@@ -1424,7 +1424,7 @@ async function hasChanged(pathsToSearch) {
   const exitCode = await exec.exec('git', [
     'diff',
     '--quiet',
-    'HEAD~1',
+    'HEAD~2',
     'HEAD',
     '--',
     ...paths,
